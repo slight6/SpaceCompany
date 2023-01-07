@@ -58,7 +58,7 @@ Game.stargazeData = (function(){
 
 	instance.hyacinite = {
 		name: "Hyacinite Congregation",
-		desc: "The Hyacinite Congregation is a science loving society, proud of all advances in technology and always looking to the future. They fight for the truth and are welcoming to anyone who shares their beliefs.",
+		desc: "The Hyacinite Congregationg is a science loving society, proud of all advances in technology and always looking to the future. They fight for the truth and are welcoming to anyone who shares their beliefs.",
 		category: "faction",
 		opinion: 0,
 		unlocked: true
